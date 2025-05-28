@@ -174,11 +174,6 @@ LIMIT 10
 - **Data Import**: Automated JSON data processing
 - **Error Handling**: Robust database connection management
 
-## 🤝 Contributors
-
-- **PES2UG22CS446**
-- **PES2UG22CS466**
-
 ## 📄 Documentation
 
 For detailed project documentation, refer to:
