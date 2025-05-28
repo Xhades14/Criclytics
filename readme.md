@@ -1,4 +1,4 @@
-# Criclytics - Cricket Analytics Database Management System
+# Criclytics - Advanced Dashboard for Cricket Performance Analysis
 
 A comprehensive database management system for cricket analytics with a web-based dashboard built using Python, MySQL, and Streamlit.
 
@@ -124,11 +124,10 @@ Criclytics_DBMS_SE_Proj/
 ├── dbms_streamlit.py          # Main Streamlit dashboard application
 ├── dbms_proj.py               # Data import script for JSON files
 ├── Criclytics DBMS.sql        # Database schema and table definitions
-├── Untitled.sql               # Additional SQL scripts
 ├── final_er.mwb               # MySQL Workbench ER diagram
 ├── DBMS_MINI_PROJECT_REPORT.pdf    # Project report
 ├── SE_Design_Doc_PES2UG22CS446_PES2UG22CS466.pdf  # Design document
-└── WhatsApp Image 2024-11-07 at 15.53.28_8399a3ad.jpg  # Project image
+└── ER_Diagram.jpg  # ER image
 ```
 
 ## 🛠️ Technologies Used
